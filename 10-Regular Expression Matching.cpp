@@ -1,3 +1,5 @@
+//. 匹配单个字符，*匹配前面的字符出现0次或多次
+
 class Solution {
 public:
 //DP
